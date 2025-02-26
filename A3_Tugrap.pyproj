@@ -24,6 +24,7 @@
     <Compile Include="A3_Tugrap.py" />
     <Compile Include="configloader.py" />
     <Compile Include="defaultconfig.py" />
+    <Compile Include="helper.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="server_config.json" />
