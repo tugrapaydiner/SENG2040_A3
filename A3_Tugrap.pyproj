@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="A3_Tugrap.py" />
+    <Compile Include="configloader.py" />
     <Compile Include="defaultconfig.py" />
   </ItemGroup>
   <ItemGroup>
