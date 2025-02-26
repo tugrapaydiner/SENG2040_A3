@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": 5001,
+  "log_file": "my_log_output.txt",
+  "rate_limit_count": 5,
+  "rate_limit_interval_sec": 10,
+  "log_format": "[{timestamp}] [{level}] [CLIENT={client_id}]: {message}"
+}
