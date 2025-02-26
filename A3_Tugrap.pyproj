@@ -25,6 +25,7 @@
     <Compile Include="configloader.py" />
     <Compile Include="defaultconfig.py" />
     <Compile Include="helper.py" />
+    <Compile Include="logformat.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="server_config.json" />
