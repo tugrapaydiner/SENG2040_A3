@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>00566631-c073-4b55-94f8-bc3b1f4d60ec</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>A3_Tugrap.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,13 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="A3_Tugrap.py" />
     <Compile Include="configloader.py" />
     <Compile Include="connectionhandler.py" />
     <Compile Include="defaultconfig.py" />
     <Compile Include="helper.py" />
     <Compile Include="logformat.py" />
     <Compile Include="loggingservice.py" />
+    <Compile Include="main.py" />
     <Compile Include="ratelimit.py" />
   </ItemGroup>
   <ItemGroup>
