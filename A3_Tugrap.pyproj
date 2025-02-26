@@ -27,6 +27,7 @@
     <Compile Include="defaultconfig.py" />
     <Compile Include="helper.py" />
     <Compile Include="logformat.py" />
+    <Compile Include="loggingservice.py" />
     <Compile Include="ratelimit.py" />
   </ItemGroup>
   <ItemGroup>
