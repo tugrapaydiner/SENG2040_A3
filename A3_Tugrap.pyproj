@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="A3_Tugrap.py" />
     <Compile Include="configloader.py" />
+    <Compile Include="connectionhandler.py" />
     <Compile Include="defaultconfig.py" />
     <Compile Include="helper.py" />
     <Compile Include="logformat.py" />
